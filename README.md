@@ -10,6 +10,8 @@ This project demonstrates the design and implementation of a secure multi-site c
 ## 🏗 Network Topology Structure
 The network architecture represents a typical enterprise setup connecting a Head Office (HQ) to a Branch Office via an Internet Service Provider (ISP). 
 
+![Network Topology](1.png)
+
 ### 1. Head Office (HQ)
 - **Router:** Cisco ISR 4321 (equipped with a NIM-2T serial module for WAN connectivity).
 - **Internal Segmentation:**
